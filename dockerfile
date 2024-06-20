@@ -1,4 +1,4 @@
-#Adding a comment
+
 FROM nginx:latest
 #WORKDIR /usr/share/nginx/html/
 copy .  /usr/share/nginx/html/
