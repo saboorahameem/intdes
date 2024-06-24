@@ -1,3 +1,3 @@
 def call(){
-sh 'echo Hello from the shared library'
+bat 'echo Hello from the shared library'
 }
