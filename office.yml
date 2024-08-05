@@ -26,6 +26,8 @@ metadata:
   labels:
     app: office
 spec:
+  selector:
+     app:  office
   ports:
   - port: 80
     protocol: TCP
